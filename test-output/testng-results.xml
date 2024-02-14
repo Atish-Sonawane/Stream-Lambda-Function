@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T17:34:44 IST" name="Default suite" finished-at="2024-02-13T17:34:44 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T17:34:44 IST" name="Default test" finished-at="2024-02-13T17:34:44 IST" duration-ms="51">
+      <class name="java_prep.Reverse_String">
+        <test-method signature="StrBuffer()[pri:0, instance:java_prep.Reverse_String@47faa49c]" started-at="2024-02-13T17:34:44 IST" name="StrBuffer" finished-at="2024-02-13T17:34:44 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StrBuffer -->
+        <test-method signature="charArray()[pri:0, instance:java_prep.Reverse_String@47faa49c]" started-at="2024-02-13T17:34:44 IST" name="charArray" finished-at="2024-02-13T17:34:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- charArray -->
+        <test-method signature="stringConcat()[pri:0, instance:java_prep.Reverse_String@47faa49c]" started-at="2024-02-13T17:34:44 IST" name="stringConcat" finished-at="2024-02-13T17:34:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stringConcat -->
+      </class> <!-- java_prep.Reverse_String -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
